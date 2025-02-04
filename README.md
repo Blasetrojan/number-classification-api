@@ -10,4 +10,4 @@ Accepts a number as a query parameter and returns JSON with mathematical propert
 
 ### Request
 ```http
-GET (http://127.0.0.1:8000/api/classify-number?number=371)
+GET <http://127.0.0.1:8000>/api/classify-number?number=371
